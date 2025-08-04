@@ -34,7 +34,7 @@ Knight’s Path/
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/NIDHAL198/-Knights_Path
+   git clone https://github.com/AALIIAWAAMRA/knights_path
    ```
 
 2. **Navigate into the directory:**
